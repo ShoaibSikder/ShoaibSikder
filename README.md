@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **A Health Monitoring System Project**
+- 🔭 I’m currently working on **Note Sharing System Project**
 
 - 🌱 I’m currently Doing **Bsc. Software Engineering**
 
-- 📫 How to reach me **shoaibsikder0@gamil.com**
-
-- ⚡ Fun fact **i am funny**
+- 📫 Mail me at **shoaibsikder0@gamil.com**
+  
+- 📫 Visit my portfolio **http://www.shoaibsikderportfolio.kesug.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
