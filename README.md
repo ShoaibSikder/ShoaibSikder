@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Note Sharing System Project**
+- 🔭 I’m currently working on **A Bachelor Flat rental project**
 
 - 🌱 I’m currently Doing **Bsc. Software Engineering**
 
