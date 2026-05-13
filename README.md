@@ -13,7 +13,7 @@
 
 - 📫 Mail me at **shoaibsikder0@gamil.com**
   
-- 📫 Visit my portfolio **http://www.shoaibsikderportfolio.kesug.com/**
+- 📫 Visit my portfolio **https://shoaibsikderportfolio.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
