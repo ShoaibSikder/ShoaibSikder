@@ -19,6 +19,8 @@
 <a href="https://instagram.com/shoaibsikder0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shoaibsikder0" height="30" width="40" /></a>
 </p>
 
+---
+
 ## 🛠 Languages, Tools & Technologies
 
 <table>
