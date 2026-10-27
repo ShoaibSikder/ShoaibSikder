@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Doing **Bsc. Software Engineering**
 
-- 📫 Mail me at **shoaibsikder0@gamil.com**
+- 📫 Mail me at **mdshoaibsikder1@gamil.com**
   
 - 📫 Visit my portfolio **https://shoaibsikderportfolio.vercel.app**
 
